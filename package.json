@@ -1,0 +1,16 @@
+{
+  "name": "trustscore-calculator",
+  "version": "1.0.0",
+  "description": "Simple TrustScore calculator for Trustpilot reviews",
+  "main": "dist/trustscore.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Thomassen",
+  "license": "None",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^2.13.0",
+    "gulp-zip": "^3.2.0"
+  }
+}
