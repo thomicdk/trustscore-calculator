@@ -20,5 +20,9 @@ TrustScore for 'skoringen.dk' is 8.9, based on the latest 300 reviews.
 3. Create or update AWS Lambda function using ZIP-package
 4. Configure handler name for Lambda function: ```aws-lambda-function.handler```
 
+## Demo
+Try the calculator here:
+https://imws1r6ap1.execute-api.us-west-2.amazonaws.com/prod/trustscores?domain=skoringen.dk
+
 ## Roadmap
 * Add unit tests, especially to ```TrustScoreCalculator``` and ```BusinessUnitReviewApiService```
